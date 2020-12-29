@@ -1,0 +1,13 @@
+{
+  "name": "react-learning",
+  "version": "0.0.0",
+  "description": "ReactLearning",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
